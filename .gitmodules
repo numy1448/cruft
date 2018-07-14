@@ -1,0 +1,27 @@
+[submodule "themes/dream-plus"]
+	path = themes/dream-plus
+	url = https://github.com/UtkarshVerma/hugo-dream-plus
+[submodule "themes/airspace"]
+	path = themes/airspace
+	url = https://github.com/themefisher/airspace-hugo.git
+[submodule "themes/navigator"]
+	path = themes/navigator
+	url = https://github.com/themefisher/navigator-hugo
+[submodule "themes/future"]
+	path = themes/future
+	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "themes/Octo"]
+	path = themes/Octo
+	url = https://github.com/parsiya/Hugo-Octopress.git
+[submodule "themes/massively"]
+	path = themes/massively
+	url = https://github.com/curttimson/hugo-theme-massively.git
+[submodule "themes/agency"]
+	path = themes/agency
+	url = https://github.com/digitalcraftsman/hugo-agency-theme.git
+[submodule "themes/dope"]
+	path = themes/dope
+	url = https://github.com/curttimson/hugo-theme-dopetrope.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
